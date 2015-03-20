@@ -4,7 +4,7 @@ module JcFreshprints
   class Dryer
 
 	  	def dry
-	  		'say oooooroooooroooorooooooooooooooro'
+	  		`say Troy oyyy Troy oyy Troy Troy Troy Troyyyyy oooooroooooroooorooooooooooooooro`
 	  	end
 	end
 end 
